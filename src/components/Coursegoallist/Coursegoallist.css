@@ -1,0 +1,18 @@
+/* .goal-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+} */
+
+.coursegoalitem{
+  background-color: rgb(47, 61, 143);
+  margin:10px auto;
+  width: 60%;
+  height:250px;
+  padding: 20px;
+  border-radius: 10px;
+  overflow: scroll;
+
+
+  
+}

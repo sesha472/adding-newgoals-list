@@ -1,0 +1,33 @@
+
+
+.button{
+    background-color: aquamarine;
+    padding: 0.5rem 2rem;
+    margin:20px 10px;
+    border-radius: 3px;
+    outline: none;
+    border:none;
+    cursor: pointer;
+    box-shadow: 1px 2px 3px black;
+    
+
+
+
+
+
+
+}
+
+/* .Button{
+    display: block;
+ margin:20px 10px;
+ padding: 7px 30px;
+ outline: none;
+background-color: cadetblue;
+border:none;
+border-radius: 4px;
+cursor: pointer;
+box-shadow: 1px 2px 3px black;
+
+font-size:medium;
+} */

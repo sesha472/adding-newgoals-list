@@ -1,8 +1,24 @@
 .App {
   text-align: center;
 }
+#goal-form {
+  width: 400px;
+  max-width: 100%;
+  margin: 3rem auto;
+  padding: 2rem;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+}
 
-.App-logo {
+/* #goals {
+  background-color: aquamarine;
+  width: 35rem;
+  max-width: 90%;
+  margin: 3rem auto;
+} */
+
+
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -11,9 +27,9 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
-}
+} */
 
-.App-header {
+/* .App-header {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -35,4 +51,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
